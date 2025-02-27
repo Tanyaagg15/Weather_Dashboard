@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #c5f3f3;
+}
+
+.container {
+    width: 50%;
+    margin: 50px auto;
+    background:  #c5f3f3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(71, 218, 220, 0.829);
+}
+
+input {
+    padding: 10px;
+    width: 70%;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#weatherResult, #forecastResult {
+    margin-top: 20px;
+}
